@@ -5,7 +5,7 @@ description = "Moneybird SDK for example2024"
 authors = ["BPro2410"]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "example2024"}]
+packages = [{include = "example2024", from = "example_workflow"}]
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.11"
