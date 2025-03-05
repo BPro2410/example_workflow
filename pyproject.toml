@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "example2024"
+name = "example2410"
 version = "0.1.13"
 description = "Moneybird SDK for example2024"
 authors = ["BPro2410"]
