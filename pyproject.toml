@@ -1,10 +1,11 @@
 [tool.poetry]
 name = "example2024"
-version = "0.1.11"
+version = "0.1.12"
 description = "Moneybird SDK for example2024"
 authors = ["BPro2410"]
 license = "MIT"
 readme = "README.md"
+packages = [{include = "example2024"}]
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.11"
@@ -22,5 +23,3 @@ pytest-mock = "^3.14.0"
 requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
 
-[tool.poetry.package]
-include = ["example2024"]
