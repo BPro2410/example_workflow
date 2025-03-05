@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "example2410"
-version = "0.1.29"
+version = "0.1.30"
 description = "Moneybird SDK for example2024"
-authors = ["BPro2410"]
+authors = ["Bernd Prostmaier <b.prostmaier@icloud.com>", "Hallo test <htest3212432@web.de>"]
 license = "MIT"
 readme = "README.md"
 
