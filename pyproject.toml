@@ -1,5 +1,6 @@
 [tool.poetry]
 name = "example2410"
+version = "0.1.20"
 description = "Moneybird SDK for example2024"
 authors = ["BPro2410"]
 license = "MIT"
