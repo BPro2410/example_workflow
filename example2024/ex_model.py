@@ -1,5 +1,5 @@
 import tensorflow as tf
-from model.helper import helper
+from example2024.helper import helper
 
 class sum_tf:
     def __init__(self, numbers):
