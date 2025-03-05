@@ -11,6 +11,7 @@ on:
 env:
   PACKAGE_NAME: "<example2410>"
   OWNER: "<BPro2410>"
+  TAP_NAME: "example_workflow"
 
 jobs:
   details:
