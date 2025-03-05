@@ -1,10 +1,10 @@
 [tool.poetry]
 name = "example2410"
-version = "0.1.30"
+version = "0.1.31"
 description = "Moneybird SDK for example2024"
 authors = ["Bernd Prostmaier <b.prostmaier@icloud.com>", "Hallo test <htest3212432@web.de>"]
 license = "MIT"
-readme = "README.md"
+readme = "pypi.md"
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.11"
