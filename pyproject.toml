@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "example2410"
-version = "0.1.43"
+version = "0.1.44"
 description = "Moneybird SDK for example2024"
 authors = ["Bernd Prostmaier <b.prostmaier@icloud.com>", "Hallo test <htest3212432@web.de>"]
 license = "MIT"
@@ -11,7 +11,7 @@ keywords = ["nlp", "topicmodel", "poisson factorization", "variational inference
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.12"
-matplotlib = "3.9"
+matplotlib = "3.7"
 numpy = "2.0"
 pandas = "2.2.3"
 scikit_learn = "1.6"
