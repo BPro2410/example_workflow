@@ -17,3 +17,6 @@ import tensorflow as tf
 tf.__version__
 
 import tensorflow_probability as tfp
+
+import cmake
+cmake.__version__
