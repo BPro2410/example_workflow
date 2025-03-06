@@ -12,7 +12,7 @@ from exAmple2410 import sum_tf as st
 
 <p>
     <div align="center">
-        <img src="https://github.com/BPro2410/Seeded-Poisson-Factorization/blob/main/seededpf/spf_graphical.PNG" width="50%" alt/>
+        <img src="https://raw.githubusercontent.com/BPro2410/Seeded-Poisson-Factorization/refs/heads/main/seededpf/spf_graphical.PNG" width="50%" alt/>
     </div>
 </p>
 
