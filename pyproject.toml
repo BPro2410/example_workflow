@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "example2410"
-version = "0.1.40"
+version = "0.1.41"
 description = "Moneybird SDK for example2024"
 authors = ["Bernd Prostmaier <b.prostmaier@icloud.com>", "Hallo test <htest3212432@web.de>"]
 license = "MIT"
@@ -19,6 +19,7 @@ scipy = "1.15"
 seaborn = "0.13"
 tensorflow = "2.18"
 tensorflow_probability = "0.25"
+tf_keras = "2.18"
 
 [tool.poetry.group.dev.dependencies]
 mypy = "^1.11.2"
