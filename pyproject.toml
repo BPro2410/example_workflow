@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "example2410"
-version = "1.0.9"
+version = "1.0.10"
 description = "Moneybird SDK for example2024"
 authors = ["Bernd Prostmaier <b.prostmaier@icloud.com>", "Hallo test <htest3212432@web.de>"]
 license = "MIT"
@@ -15,7 +15,7 @@ cmake = "3.31.6"
 tensorflow = "2.18"
 tensorflow_probability = "0.25"
 matplotlib = "*"
-numpy = "*"
+numpy = "1.26.4"
 pandas = "*"
 scikit_learn = "1.6.1"
 scipy = "1.15.2"
